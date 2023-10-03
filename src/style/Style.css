@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    cursor: default;
+    background-color: black;
+    color: rgb(255, 91, 91);
+}
